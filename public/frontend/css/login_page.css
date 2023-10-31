@@ -1,0 +1,33 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body
+{
+  /* margin-top: 11%; */
+}
+
+.set_border
+{
+  /* align-items: flex-end; */
+  /* border: 2px solid black; */
+  border-radius: 40px;
+  width:60vw;
+} 
+.align-center
+{
+  display: inline-grid;
+  align-items: center;
+  font-weight: 800;
+}
+.row
+{
+  display: inline-flex;
+}
+.container
+{
+  align-content: center;
+  /* background-color: red; */
+}

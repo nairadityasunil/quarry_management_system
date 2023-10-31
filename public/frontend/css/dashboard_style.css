@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* body{
+    background-color: #F8F8FF;
+} */
+/* a:focus{
+    color: white;
+    font-size: larger;
+    border: none;
+    text-decoration: none;
+} */
+
+.overflow1{
+    overflow-y: scroll;
+}
+
+.card-height{
+    height: 90vh;
+}
+
+.selected_page{
+    color: red;
+    font-size: larger;
+}
+
+a{
+    text-decoration: none;
+}
